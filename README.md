@@ -1,3 +1,7 @@
+# TextUtils
+Developed a website that offers users a platform to analyze and edit their text by using various functions, including converting to uppercase, converting to lowercase, , clearing text, copying and removing extra spaces,etc.
+Also in this I enabled dark made.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
